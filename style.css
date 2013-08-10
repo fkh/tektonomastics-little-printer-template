@@ -8,8 +8,29 @@ body {
 	margin: 10px 0;
 	/* See the available fonts at
 	 * http://remote.bergcloud.com/developers/style_guide/fonts */
-	font-family: Arial, sans-serif;
+	font-family: 'Museo Slab';
 	font-size: 20px;
 	line-height: 1.4em;
+}
+
+h1 {
+  font-family:'St Ryde';
+  text-align: center;
+}
+
+
+.address {
+  text-align: center; 
+  font-size: 22px; 
+}
+
+.credits {
+  font-size: 18px;
+  text-align: center;
+}
+
+.tagline {
+  text-align: center;
+  font-size: 18px;
 }
 
